@@ -12,13 +12,13 @@ computing frameworks.
 This project has been developed as a part of Google Summer of Code 2018 by Joey Pinto under the mentorship of the 
 International Neuroinformatics Coordinating Facility, Sweden.
 
-More details about the project can be found at http://www.zedacross.com/gsoc2018/
+More details about the project can be found at http://www.pintojoey.com/gsoc2018/
 
 This repository hosts the webserver which runs the GUI utility to design workflows by combining and arranging blocks.
 The webserver also posses the functionality to execute tasks and report errors and logs. 
 It also hosts an access control and scheduling system. The project also hosts a remote file upload interface.
 
-More details about how to use the GUI are available at http://www.zedacross.com/gsoc2018/workflow-designer-server-user-manual
+More details about how to use the GUI are available at http://www.pintojoey.com/gsoc2018/workflow-designer-server-user-manual
 
 ## Contribution Guidelines
 
